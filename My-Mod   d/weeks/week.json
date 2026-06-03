@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"mychart",
+			"icon-screwed",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"bambi3angry",
+		"bf",
+		"gf"
+	],
+	"storyName": "MyChart",
+	"weekName": "MyChart",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
